@@ -1,0 +1,19 @@
+{
+    "params":{
+        "web_name":"Coding Blog",
+        "web_tag":"This is the Starting Page for Coder",
+        "Local_host": "True",
+        "local_url": "mysql://root:@localhost/codingmilan",
+        "prod_url": "mysql://root:@localhost/codingmilan",
+        "fb_url": "https://www.facebook.com",
+        "tw_url": "https://www.twitter.com",
+        "gt_url": "https://www.github.com",
+        "user-mail": "milanhacks1@gmail.com",
+        "user-pass": "jp@12345678",
+        "img_url": "img/post-bg.jpg",
+        "no_post_page": 3,
+        "admin_name":"milan",
+        "admin_pass":"laile"
+    }
+
+}
